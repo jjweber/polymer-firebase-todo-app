@@ -1,0 +1,23 @@
+{
+  "name": "polymer-firebase-todo-app",
+  "authors": [
+    "Justin Weber"
+  ],
+  "description": "To do app using firebase and polymer for wk3 of PWA class",
+  "main": "",
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^2.0.1",
+    "polymerfire": "firebase/polymerfire#^2.1.0",
+    "paper-button": "PolymerElements/paper-button#^2.0.0"
+  }
+}
